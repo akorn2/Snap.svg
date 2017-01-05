@@ -1,0 +1,9 @@
+
+class ChristmasCardwithSlides extends ChristmasCard extends svgAnimations extends landingContainer {
+
+}
+
+circles soft movements in loose circles
+
+flash light gleam over text area
+

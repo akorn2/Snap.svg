@@ -1,0 +1,7 @@
+
+How to animate a watercoloring effect?
+
+Generate random circles with in the radias of the previous.
+Each circle with a blur
+Each circle semi transparent
+Each circle random color hue between 6 colors
